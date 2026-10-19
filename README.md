@@ -21,20 +21,6 @@
 - 🌊 CJ OliveNetworks AI Campus — Security WAVE
 ```
 
-### `> ls ./stack`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,androidstudio,linux,kali,bash,docker,flask,git,github,vscode&perline=12&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
-  <img src="https://img.shields.io/badge/DreamHack-1F2937?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
-</p>
-
 ### `> ls ./projects`
 
 | Project | Description |
