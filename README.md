@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moovingGun&color=e94560&style=flat-square&label=visitors"/>
-</p>
-
 ---
 
 ### `> cat about.txt`
