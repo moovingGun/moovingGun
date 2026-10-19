@@ -25,7 +25,7 @@
 
 | Project | Description |
 |:--|:--|
-| 🔍 **[훤히 (hwonhi)](https://github.com/CJ-AI-SecurityWave)** | 공공 누리집 숨은 불법광고 탐지 도구 — 크롤링 + 첨부파일·이미지 텍스트 분석 |
+| 🔍 **훤히 (hwonhi)** `🔒 Private` | 공공 누리집 숨은 불법광고 탐지 도구 — 크롤링 + 첨부파일·이미지 텍스트 분석 |
 | 🤖 **[pentest-harness](https://github.com/moovingGun/pentest-harness)** | SAST/DAST 결과를 AI로 엮어 모의해킹 흐름을 자동화하는 하네스 |
 | 🕸️ **[dast-harness](https://github.com/moovingGun/dast-harness)** | AI 기반 동적 분석(DAST) 하네스 |
 | 🐞 **[cvehunt](https://github.com/moovingGun/cvehunt)** | 오픈소스 프로젝트 취약점 분석 및 GHSA 제보 |
